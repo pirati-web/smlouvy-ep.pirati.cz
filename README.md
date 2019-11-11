@@ -1,4 +1,4 @@
-Registr smluv - klon pro Poslanecký klub
+Registr smluv - klon pro Europoslanecký klub
 ==============
 
 Specifikace
