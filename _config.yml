@@ -1,0 +1,30 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: "Registr smluv Europoslaneckého klubu Pirátské strany"
+email: to@pirati.cz
+description: > # this means to ignore newlines until "baseurl:"
+  Registr smluv Europoslaneckého klubu České pirátské strany slouží k evidenci i transparentnímu informování o smlouvách uzavřených v rámci činnosti Europoslaneckého klubu Pirátské strany s dalšími subjekty.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://smlouvy-ep.pirati.cz" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+sass:
+    style: compressed
+
+author:
+  - name: 'Jakub Michálek'
+    url: https://www.pirati.cz/lide/jakub_michalek
+  - name: 'Ondřej Profant'
+    url: https://www.pirati.cz/lide/ondrej_profant
+
+github:
+  user: pirati-web
+  repo: smlouvy-ep.pirati.cz

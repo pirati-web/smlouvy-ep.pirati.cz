@@ -1,0 +1,9 @@
+- link: pirati.cz
+  url: https://www.pirati.cz
+  icon: fa fa-home
+- link: Smlouvy strany
+  url: https://smlouvy.pirati.cz
+  icon: fa fa-window-maximize
+- link: Smlouvy poslaneckého klubu
+  url: https://smlouvy-psp.pirati.cz
+  icon: fa fa-window-maximize
